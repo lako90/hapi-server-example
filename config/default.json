@@ -1,0 +1,9 @@
+{
+  "db": {
+    "username": "admin",
+    "password": "1kKumpEaRf2hd!eccolo",
+    "host": "ds219641.mlab.com",
+    "port": "19641",
+    "name": "moder-api-db"
+  }
+}
